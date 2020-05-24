@@ -12,6 +12,7 @@
     "sourceMap": true,
     "baseUrl": ".",
     "types": [
+      "jquery",
       "webpack-env"
     ],
     "paths": {
